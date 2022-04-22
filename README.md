@@ -7,7 +7,9 @@ Data is the daily SP500 price for Brazilian stock market, from 3rd June 2002 to 
 RESULT INTERPRETATION 
 1. 
 Regime 1 displays with negative mean return with very high variance -> bear state
+
 Regime 2 with positive mean of return and smallest volatility       -> bull state
+
 Regime 3 with zero mean return and average variance.                -> normal state
 
 2. 
